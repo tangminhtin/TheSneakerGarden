@@ -57,21 +57,22 @@ header.shadow {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 0;
 }
 .logo img {
-  width: 130px;
+  width: 120px;
 }
 .navbar {
   display: flex;
   column-gap: 2rem;
   padding-left: 6rem;
+  
 }
 .navbar a {
   position: relative;
   color: var(--text-color);
   font-size: 1rem;
   font-weight: 500;
+  text-decoration:none;
 }
 .navbar a:hover,
 .navbar .active {
