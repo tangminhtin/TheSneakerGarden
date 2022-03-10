@@ -79,6 +79,15 @@ div {
   background-color: #ff7c03 !important;
   border-color: #ff7c03 !important;
 }
+.btn-success:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn-success:hover {
+  background-color: #fff !important;
+  border-color: #ff7c03 !important;
+  color: #ff7c03;
+}
 .btn-main {
   background-color: #ff7c03 !important;
   border-color: #ff7c03 !important;
