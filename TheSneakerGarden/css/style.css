@@ -484,3 +484,55 @@ form.example::after {
   clear: both;
   display: table;
 }
+
+/* .dropdown-toggle:focus{
+  color: var(--bg-color) !important;
+} */
+
+/* .bi-person-circle::after {
+  color: var(--main-color) !important;
+  background: #ff0;
+}
+.bi-person-circle::before {
+  color: #fff;
+}
+
+.bi-person-circle:hover {
+  color: #f00;
+} */
+
+
+
+.person {
+  background: var(--main-light-color);
+  border: 1px solid var(--main-light-color);
+  color: var(--btn-white-text);
+  box-shadow: none;
+  outline: none;
+  border-radius: 0.25em;
+}
+
+.person:hover {
+  background: var(--bg-color);
+  border: 1px solid var(--main-light-color);
+  box-shadow: none;
+  outline: none;
+  color: var(--main-color);
+  box-shadow: none;
+  outline: none;
+}
+
+.person:focus{
+  border: 1px solid var(--main-light-color) !important;  
+  box-shadow: none !important;
+  outline: none !important;
+  color: var(--main-color);
+  background-color: var(--bg-color);
+}
+
+.person:active{
+  background: var(--bg-color);
+  color: var(--main-color);
+  border: 1px solid var(--main-light-color);
+  box-shadow: none;
+}
