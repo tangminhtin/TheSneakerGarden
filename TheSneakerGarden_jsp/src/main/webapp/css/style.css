@@ -79,6 +79,10 @@ header.shadow {
 
 
 }
+
+.navbar-brand:hover {
+    border-bottom-color: var(--bg-color) !important;
+}
 .navbar a:hover,
 .navbar .active {
   padding-bottom: 0.25rem;
