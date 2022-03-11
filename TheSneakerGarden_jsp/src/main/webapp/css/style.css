@@ -81,7 +81,7 @@ header.shadow {
 }
 
 .navbar-brand:hover {
-    border-bottom-color: var(--bg-color) !important;
+    border-bottom-color: rgb(251, 251, 251) !important;
 }
 .navbar a:hover,
 .navbar .active {
