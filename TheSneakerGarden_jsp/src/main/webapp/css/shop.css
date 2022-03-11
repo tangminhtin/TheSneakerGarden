@@ -67,7 +67,7 @@ div {
   background-color: #212934 !important;
 }
 .bg-light {
-  background-color: #e9eef5 !important;
+  background-color: rbg(251, 251, 251) !important;
 }
 .bg-black {
   background-color: #1d242d !important;
