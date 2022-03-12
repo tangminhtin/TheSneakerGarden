@@ -3,8 +3,10 @@
     <head
         <%@include file="components/head.jsp" %>
         <title>The Sneaker Garden</title>
-        <link href="./css/style.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/shop.css" />
+        <link href="./css/style.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="./css/shop.css"/>
+        <link rel="stylesheet" href="./css/style.css"/>
+
     </head>
 
     <body>
@@ -58,7 +60,7 @@
                                     <a class="h3 text-dark text-decoration-none mr-3 " href="./shop.jsp">All</a>
                                 </li>
                                 <li class="list-inline-item">
-                                    <a class="h3 text-dark text-decoration-none mr-3 bg-warning ps-5 pe-5 pt-1 pb-1 rounded text-white"
+                                    <a class="h3 text-dark text-decoration-none mr-3 bg-warning ps-5 pe-5 pt-1 pb-1 rounded "
                                        href="./nike.jsp">Nike</a>
                                 </li>
                                 <li class="list-inline-item">
@@ -99,11 +101,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn btn-main mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn btn-main mt-2" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -125,11 +127,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -151,11 +153,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -177,11 +179,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -203,11 +205,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -229,11 +231,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main text-white mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
