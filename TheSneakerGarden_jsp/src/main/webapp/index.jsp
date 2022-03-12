@@ -138,11 +138,11 @@
             </form>
         </section>
 
-        
-        
-        
-        
-        
+
+
+
+
+
         <%@include file="components/footer.jsp" %>
         <script>
             function changeTheme() {

@@ -21,7 +21,7 @@ Table of contents
 --------------------------------------------- */
 
 /* Typography */
-body,
+/*body,
 ul,
 li,
 p,
@@ -32,8 +32,8 @@ div {
   font-family: "Roboto", sans-serif;
   font-size: 18px !important;
   font-weight: 300 !important;
-}
-.h1 {
+}*/
+/*.h1 {
   font-family: "Roboto", sans-serif;
   font-size: 48px !important;
   font-weight: 200 !important;
@@ -46,9 +46,9 @@ div {
 .h3 {
   font-family: "Roboto", sans-serif;
   font-size: 22px !important;
-}
+}*/
 /* General */
-.logo {
+/*.logo {
   font-weight: 500 !important;
 }
 .text-warning {
@@ -65,8 +65,8 @@ div {
 }
 .bg-dark {
   background-color: #212934 !important;
-}
-.bg-light {
+}*/
+/*.bg-light {
   background-color: #e9eef5 !important;
 }
 .bg-black {
@@ -99,12 +99,12 @@ div {
 .pagination .page-link.active {
   background-color: #ff7c03;
   color: #fff;
-}
+}*/
 /* Nav */
-#templatemo_nav_top {
+/*#templatemo_nav_top {
   min-height: 40px;
-}
-#templatemo_nav_top * {
+}*/
+/*#templatemo_nav_top * {
   font-size: 0.9em !important;
 }
 #templatemo_main_nav a {
@@ -115,19 +115,19 @@ div {
 }
 #templatemo_main_nav .navbar .nav-icon {
   margin-right: 20px;
-}
+}*/
 
 /* Hero Carousel */
-#template-mo-zay-hero-carousel {
+/*#template-mo-zay-hero-carousel {
   background: #efefef !important;
 }
-/* Accordion */
+ Accordion 
 .templatemo-accordion a {
   color: #000;
 }
 .templatemo-accordion a:hover {
   color: #333d4a;
-}
+}*/
 /* Shop */
 .shop-top-menu a:hover {
   color: #ff7c03 !important;
@@ -212,35 +212,10 @@ div {
 .leaflet-control {
   font-size: 10px !important;
 }
-.form-control {
+/*.form-control {
   border: 1px solid #e8e8e8;
-}
-/* Footer */
-#tempaltemo_footer a {
-  color: #dcdde1;
-}
-#tempaltemo_footer a:hover {
-  color: #68bb7d;
-}
-#tempaltemo_footer ul.footer-link-list li {
-  padding-top: 10px;
-}
-#tempaltemo_footer ul.footer-icons li {
-  width: 2.6em;
-  height: 2.6em;
-  line-height: 2.6em;
-}
-#tempaltemo_footer ul.footer-icons li:hover {
-  background-color: #cfd6e1;
-  transition: 0.5s;
-}
-#tempaltemo_footer ul.footer-icons li:hover i {
-  color: #212934;
-  transition: 0.5s;
-}
-#tempaltemo_footer .border-light {
-  border-color: #2d343f !important;
-}
+}*/
+
 /*
 // Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default in Bootstrap
