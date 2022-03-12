@@ -101,7 +101,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <h1 class="h2">
-                                    Nike Air Force 1 Low By You Custom – Gucci</h1>
+                                    Nike Air Force 1 Low By You Custom  Gucci</h1>
                                 <p class="h3 py-2">$50.00</p>
                                 <p class="py-2">
 
@@ -218,7 +218,7 @@
                             </div>
                             <div class="card-body">
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
-                                    <h5>Nike Blazer Low Jumbo – White/Orange</h5>
+                                    <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
@@ -241,7 +241,7 @@
                             </div>
                             <div class="card-body">
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
-                                    <h5>Nike Blazer Low Jumbo – White/Orange</h5>
+                                    <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
@@ -287,7 +287,7 @@
                             </div>
                             <div class="card-body">
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
-                                    <h5>Nike Blazer Low Jumbo – White/Orange</h5>
+                                    <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
@@ -310,7 +310,7 @@
                             </div>
                             <div class="card-body">
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
-                                    <h5>Nike Blazer Low Jumbo – White/Orange</h5>
+                                    <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
@@ -333,7 +333,7 @@
                             </div>
                             <div class="card-body">
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
-                                    <h5>Nike Blazer Low Jumbo – White/Orange</h5>
+                                    <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
@@ -356,7 +356,7 @@
                             </div>
                             <div class="card-body">
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
-                                    <h5>Nike Blazer Low Jumbo – White/Orange</h5>
+                                    <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
@@ -478,7 +478,7 @@
         <script>
             $('#carousel-related-product').slick({
                 infinite: true,
-                arrows: false,
+                arrows: true,
                 slidesToShow: 4,
                 slidesToScroll: 3,
                 dots: true,
