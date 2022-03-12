@@ -17,7 +17,7 @@
     <body>
         <%@include file="components/header.jsp" %>
         <!-- Open Content -->
-        <section class="bg-light">
+        <section class="bg-light mt-3">
             <div class="container pb-5">
                 <div class="row">
                     <div class="col-lg-5 mt-5">
