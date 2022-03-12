@@ -102,7 +102,7 @@
                                             </li>
                                             <li>
                                                 <a class="btn mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -128,7 +128,7 @@
                                             </li>
                                             <li>
                                                 <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -154,7 +154,7 @@
                                             </li>
                                             <li>
                                                 <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -180,7 +180,7 @@
                                             </li>
                                             <li>
                                                 <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -206,7 +206,7 @@
                                             </li>
                                             <li>
                                                 <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -232,7 +232,7 @@
                                             </li>
                                             <li>
                                                 <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>

@@ -212,7 +212,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -235,7 +235,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -258,7 +258,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -281,7 +281,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -304,7 +304,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -327,7 +327,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -350,7 +350,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -373,7 +373,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -396,7 +396,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -419,7 +419,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -442,7 +442,7 @@
                                                     class="far fa-eye"></i></a>
                                         </li>
                                         <li><a class="btn btn-main text-white mt-2" href="./product-detail.jsp"><i
-                                                    class="fas fa-cart-plus"></i></a></li>
+                                                    class="bi bi-cart-plus-fill"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

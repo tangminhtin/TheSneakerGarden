@@ -99,9 +99,10 @@
                                     <img class="card-img rounded-0 img-fluid" src="./img/nike_1.jpg" />
                                     <div class="card-img-overlay rounded-0 product-overlay d-flex align-items-center justify-content-center">
                                         <ul class="list-unstyled">
-                                            <li><a class="btn btn-main  mt-2" href="./product-detail.jsp" tabindex="0"><i class="far fa-eye"></i></a>
+                                            <li><a class="btn mt-2 btn-main" href="./product-detail.jsp" tabindex="0"><i class="far fa-eye"></i></a>
                                             </li>
-                                            <li><a class="btn btn-main  mt-2" href="./product-detail.jsp" tabindex="0" ><i class="fas fa-cart-plus"></i></a></li>
+                                            <li><a class="btn mt-2 btn-main" href="./product-detail.jsp" tabindex="0" ><i class="bi bi-cart-plus-fill"></i></a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -122,11 +123,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -148,11 +149,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -174,11 +175,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -200,11 +201,11 @@
                                         <ul class="list-unstyled">
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i class="far fa-eye"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i class="far fa-eye"></i></a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -230,8 +231,8 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="btn btn-main  mt-2" href="product-detail.jsp"><i
-                                                        class="fas fa-cart-plus"></i></a>
+                                                <a class="btn mt-2 btn-main" href="product-detail.jsp"><i
+                                                        class="bi bi-cart-plus-fill"></i></a>
                                             </li>
                                         </ul>
                                     </div>

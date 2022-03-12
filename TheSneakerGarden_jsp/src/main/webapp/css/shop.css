@@ -80,7 +80,7 @@ div {
     border-color: #56ae6c !important;
 }
 
-far:hover{
+.far:hover{
     color: var(--main-color) !important;
 }
 .pagination .page-link:hover {
