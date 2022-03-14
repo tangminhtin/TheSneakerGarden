@@ -10,76 +10,6 @@
     <body>
         <%@include file="components/header.jsp" %>
         <!-- Navbar -->
-        <header>
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="./index.jsp">
-                        <img src="./images/LogoTheSneakerGarden.png" alt="" width="100px" height="100px"
-                             class="d-inline-block align-text-top">
-
-                    </a>
-
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" style="justify-content: space-between;" id="navbarNav">
-                        <ul class="navbar-nav">
-                            <li class="nav-item nav">
-                                <a class="nav-link" aria-current="page" href="#">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Features</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="./shop.jsp">Shop</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="./nike.jsp">Nike</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="./adidas.jsp">Adidas</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="./about.jsp">About</a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-                                   aria-expanded="false">
-                                    Dropdown
-                                </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li>
-                                        <hr class="dropdown-divider">
-                                    </li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                </ul>
-                            </li>
-
-                        </ul>
-                        <form class="d-flex">
-                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                            <button class="btn btn-outline-success" type="submit">Search</button>
-                            <button class="btn btn-outline-success" style="display: inline-block; margin-left: 5em;" type="button"
-                                    onclick="location.href = './login.jsp'">Login</button>
-                            <button class="btn btn-outline-success" style="display: inline-block; margin-left: .5em;" type="button"
-                                    onclick="location.href = './register.jsp'">Register</button>
-
-                            <button class="btn btn-outline-success" style="display: inline-block; margin-left: .5em;" type="button"
-                                    onclick="location.href = './profile.jsp'"><i class="bi bi-person-circle"></i></button>
-
-                            <button class="btn btn-outline-success" type="button" style="display: inline-block; margin-left: .5em;"
-                                    onclick="location.href = './cart.jsp'"><i class="bi bi-cart-plus-fill"></i></button>
-
-                        </form>
-
-
-                    </div>
-                </div>
-            </nav>
-        </header>
         <section class="mt-5 ">
             <div class="container py-5 h-100">
                 <div class="row d-flex justify-content-center align-items-center h-100">
@@ -135,7 +65,7 @@
         <%@include file="components/footer.jsp" %>
 
         <!-- MDB -->
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js"></script>
+        <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js"></script>-->
         <script type="text/javascript" src="./js/cart.js"></script>
     </body>
 
