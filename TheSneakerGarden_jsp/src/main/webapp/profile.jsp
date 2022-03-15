@@ -9,7 +9,7 @@
 
     <body>
         <%@include file="components/header.jsp" %>
-       
+        <!-- Navbar -->
         <section class="mt-5 ">
             <div class="container py-5 h-100">
                 <div class="row d-flex justify-content-center align-items-center h-100">
