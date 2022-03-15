@@ -10,7 +10,7 @@
                type="button" onclick="location.href = './register.jsp'">Register</a>
         </div>
     </div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
 
         <div class="container">
             <a class="navbar-brand" href="./index.jsp">
@@ -29,16 +29,16 @@
                                 <a id="homeActive" class="nav-link" aria-current="page" href="./index.jsp">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./shop.jsp">Shop</a>
+                                <a id="shopActive" class="nav-link" aria-current="page" href="./shop.jsp">Shop</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./nike.jsp">Nike</a>
+                                <a id="nikeActive" class="nav-link" aria-current="page" href="./nike.jsp">Nike</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./adidas.jsp">Adidas</a>
+                                <a id="adidasActive" class="nav-link" aria-current="page" href="./adidas.jsp">Adidas</a>
                             </li>
-                            <li class="nav-item" style="margin-right: 5% !important">
-                                <a class="nav-link" href="./about.jsp">About</a>
+                            <li class="nav-item">
+                                <a id="aboutActive" class="nav-link" aria-current="page" href="./about.jsp">About</a>
                             </li>
                         </div>
                     </div>
