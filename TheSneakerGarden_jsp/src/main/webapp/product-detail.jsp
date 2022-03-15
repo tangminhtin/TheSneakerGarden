@@ -220,6 +220,15 @@
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
                                     <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
+                                <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                    <li>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                    </li>
+                                </ul>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
                         </div>
@@ -243,6 +252,15 @@
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
                                     <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
+                                <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                    <li>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                    </li>
+                                </ul>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
                         </div>
@@ -266,6 +284,15 @@
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
                                     <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                 </a>
+                                  <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                    <li>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                    </li>
+                                </ul>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
                         </div>
@@ -289,6 +316,15 @@
                                 <a href="./product-detail.jsp" class="h3 text-decoration-none">
                                     <h5>Nike Blazer Low Jumbo  White/Orange</h5>
                                 </a>
+                                  <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                    <li>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-warning fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                        <i class="text-muted fa fa-star"></i>
+                                    </li>
+                                </ul>
                                 <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                             </div>
                         </div>
@@ -462,7 +498,7 @@
         <!-- End Article -->
 
         <%@include file="components/footer.jsp" %>
-        
+
         <!-- Start Script -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
                 integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
