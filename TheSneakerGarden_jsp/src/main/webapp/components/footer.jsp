@@ -1,5 +1,6 @@
 <!-- Footer -->
-
+ <!-- Link To JS -->
+        <script src="./js/main.js"></script>
 <section class="footer container">
 
     <div class="footer-box">
