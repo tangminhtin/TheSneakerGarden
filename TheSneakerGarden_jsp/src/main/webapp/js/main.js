@@ -18,7 +18,7 @@ let header = document.querySelector('header');
 //    navbar.classList.remove('active');
 //}
 
-if (window.location.href.toString().endsWith("/index.jsp")) {
+if (window.location.href.toString().endsWith("/index.jsp") || window.location.href.toString().endsWith("/")) {
     let home = document.getElementById("homeActive");
     home.style.setProperty("color", "#ff7c03");
     home.style.setProperty("padding-bottom", "0.25rem")
