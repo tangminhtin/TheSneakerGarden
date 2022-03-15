@@ -1,5 +1,7 @@
 <!-- Footer -->
+
 <section class="footer container">
+
     <div class="footer-box">
         <!-- Logo -->
         <a href="#" class="logo">
@@ -34,4 +36,6 @@
         <p>Germany</p>
         <p>Vietnam</p>
     </div>
+    <!--<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="bi bi-caret-up-square-fill top-icon"></i></button>-->
+     <div class="btn btn-outline-success custom-btn" type="button" onclick="topFunction()" id="myBtn"><i class="bi bi-caret-up-fill"></i></i></div>
 </section>

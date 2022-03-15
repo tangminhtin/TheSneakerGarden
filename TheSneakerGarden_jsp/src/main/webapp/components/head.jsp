@@ -10,6 +10,7 @@
 
 
 <!-- Fav Icon -->
+<<link rel="stylesheet" href="../css/sb-admin-2.min.css"/>
 <link rel="shortcut icon" href="/images/LogoTheSneakerGarden.png" type="image/x-icon">
 <!-- Box Icons -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">

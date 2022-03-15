@@ -114,6 +114,15 @@
                                     <a href="product-detail.jsp" class="h3 text-decoration-none">
                                         <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                     </a>
+                                    <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                        <li>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                        </li>
+                                    </ul>
                                     <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                                 </div>
                             </div>
@@ -140,6 +149,15 @@
                                     <a href="product-detail.jsp" class="h3 text-decoration-none">
                                         <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                     </a>
+                                    <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                        <li>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                        </li>
+                                    </ul>
                                     <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                                 </div>
                             </div>
@@ -166,6 +184,15 @@
                                     <a href="product-detail.jsp" class="h3 text-decoration-none">
                                         <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                     </a>
+                                    <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                        <li>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                        </li>
+                                    </ul>
                                     <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                                 </div>
                             </div>
@@ -192,6 +219,15 @@
                                     <a href="product-detail.jsp" class="h3 text-decoration-none">
                                         <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                     </a>
+                                    <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                        <li>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                        </li>
+                                    </ul>
                                     <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                                 </div>
                             </div>
@@ -218,6 +254,15 @@
                                     <a href="product-detail.jsp" class="h3 text-decoration-none">
                                         <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                     </a>
+                                     <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                        <li>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                        </li>
+                                    </ul>
                                     <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                                 </div>
                             </div>
@@ -244,6 +289,16 @@
                                     <a href="product-detail.jsp" class="h3 text-decoration-none">
                                         <h5>Nike Blazer Low Jumbo White/Orange</h5>
                                     </a>
+                                    <ul class="list-unstyled d-flex justify-content-center mb-1">
+                                        <li>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-warning fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                            <i class="text-muted fa fa-star"></i>
+                                        </li>
+                                    </ul>
+                                    
                                     <p class="text-center mb-0" style="color: #ff7c03"><b>$67.95</b></p>
                                 </div>
                             </div>
